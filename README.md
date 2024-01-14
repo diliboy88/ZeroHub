@@ -1,4 +1,3 @@
-# ZeroWire-Hub
 <!DOCTYPE html>
 <html lang="en">
 <head>
